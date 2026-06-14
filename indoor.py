@@ -1,5 +1,2 @@
-# Ask the user to type something
-text = input("Say something: ")
-
-# Convert the text to lowercase and print it
+text = input()
 print(text.lower())
